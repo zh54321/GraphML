@@ -1,2 +1,2 @@
 # GraphML
-Write GraphML file from node and edge csv
+Write GraphML file from node and edge csv files.
